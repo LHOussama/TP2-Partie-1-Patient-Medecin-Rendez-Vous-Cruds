@@ -1,4 +1,5 @@
 1.Entites
+
   a.Consultation
 <img width="914" alt="image" src="https://github.com/LHOussama/TP2-Partie-1-Patient-Medecin-Rendez-Vous-Cruds/assets/160369206/a58471b5-68b9-4ed1-980a-3122cf2981a4">
   b.Medecin
